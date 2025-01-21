@@ -1,0 +1,95 @@
+[
+  {
+    "id": 5,
+    "name": "Лямус",
+    "image": "./src/assets/info/Ляму.jpg",
+    "dishes": [
+      {"ingredient": "Салат «Сельдь под шубой»", "minPrice": "2,00"},
+      {"ingredient": "Борщ холодный со сметаной", "minPrice": "1,98"},
+      {"ingredient": "Блинчики с вишневым соусом", "minPrice": "2,13"}
+    ],
+    "price": "6,40 р",
+    "place": "Витебск, пр-т Победы, 1",
+    "time": "12:00 - 16:00"
+  },
+  {
+    "id": 6,
+    "name": "Рizza Smile",
+    "image": "./src/assets/info/pizza.jpeg",
+    "dishes": [
+      {"ingredient": "Салат «Весенний»"},
+      {"ingredient": "Суп грибной с перловкой"},
+      {"ingredient": "Котлета рубленая из птицы, картофель отварной, сливочный соус"}
+    ],
+    "price": "7,00 р",
+    "place": "Витебск, ул.Чкалова, 35",
+    "time": "12:00 - 15:00"
+  },
+  {
+    "id": 7,
+    "name": "Амстердам",
+    "image": "./src/assets/info/амстер.jpeg",
+    "dishes": [
+      {"ingredient": "Салат из птицы с яблоками"},
+      {"ingredient": "Бульон куриный с крутонами"},
+      {"ingredient": "Рыба, запеченная с помидором и рис"}
+    ],
+    "price": "6,50 р",
+    "place": "Витебск, Бешенковичское шоссе, 3-1",
+    "time": "11:00 - 16:00"
+  },
+  {
+    "id": 8,
+    "name": "Город",
+    "image": "./src/assets/info/город.jpeg",
+    "dishes": [
+      {"ingredient": "Салат «Северный»", "minPrice": "1,30"},
+      {"ingredient": "Борщ холодный со сметаной", "minPrice": "1,30"},
+      {"ingredient": "Филе хека с гарниром (гречневая каша с шампиньонами)", "minPrice": "4,60"}
+    ],
+    "price": "7,20 р",
+    "place": "Витебск, ул.Смоленская, 3/1"
+  },
+  {
+    "id": 1,
+    "name": "Кафе Агниво",
+    "image": "./src/assets/info/агниво.jpg",
+    "dishes": [
+      {"ingredient": "Борщ"},
+      {"ingredient": "Котлета"},
+      {"ingredient": "Пюре"}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ресторан Васильки",
+    "image": "./src/assets/info/васильки.png",
+    "dishes": [
+      {"ingredient": "Стейк"},
+      {"ingredient": "Салат Цезарь"},
+      {"ingredient": "Вино"}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Золотой Лев",
+    "image": "./src/assets/info/золотой.jpeg",
+    "dishes": [
+      {"ingredient": "Бургеры"},
+      {"ingredient": "Картофель Фри"},
+      {"ingredient": "Кола"}
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ресторан Трактир",
+    "image": "./src/assets/info/губтрактир.jpeg",
+    "dishes": [
+      {"ingredient": "Пицца Маргарита"},
+      {"ingredient": "Паста"},
+      {"ingredient": "Тирамису"}
+    ]
+  }
+]
+
+
